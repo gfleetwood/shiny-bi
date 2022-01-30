@@ -4,7 +4,7 @@ A prototype of a Business Intelligence tool built in Shiny. It has;
 
 * Simple authentication through shinymanager
 * User groups
-$ Permissions
+* Permissions
 
 The test_schema.R file has a structure for all the tables you would need to read from a database. There's a sample function in server.R for custom auth (taken from the shinymanager website).
 
